@@ -1,3 +1,12 @@
+//!introduction of javascript javascript was created by Brendan Eich in 1995 and is a programming language that can be used to create interactive web pages and web applications.
+//!javascript is a high-level language that is easy to learn and use, and is widely used in web applications and games.
+//! javascript was made in 10 days
+//!firstname of javascript is  mocha after that livescript and finally javasvcript.
+
+
+
+
+
 // todo here  what can do typeof method, undefined,null datatype
 
 // ! var is initialize the variable name which is a global variable, you can use anywhere in your code
